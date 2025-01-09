@@ -6,7 +6,10 @@ promptinit
 
 # init completion
 autoload -Uz compinit
-compinit
+for dump in ~/.zcompdump(N.mh+24); do
+  compinit
+done
+compinit -C
 
 # no duplicates in history
 setopt histignoredups

@@ -1,8 +1,7 @@
 font-family = "JetBrains Mono"
 macos-titlebar-style = tabs
 theme = "GitHub Dark"
-background = 101010
-cursor-color = EFEFEF
+minimum-contrast = 4
 window-save-state = always
 link-url = true
 copy-on-select = true

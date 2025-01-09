@@ -1,0 +1,14 @@
+font-family = "JetBrains Mono"
+macos-titlebar-style = tabs
+theme = "GitHub Dark"
+background = 101010
+cursor-color = EFEFEF
+window-save-state = always
+link-url = true
+copy-on-select = true
+clipboard-trim-trailing-spaces = true
+quit-after-last-window-closed = true
+
+keybind = global:ctrl+super+t=toggle_quick_terminal
+keybind = ctrl+alt+left=previous_tab
+keybind = ctrl+alt+right=next_tab
